@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlayMaGame
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently vibe coding
 - 💞️ I’m not currently seeking collaborations
 - 📫 You can reach me on [Twitch](https://www.twitch.tv/playmagame)
 - 😄 Pronouns: he/his/him
