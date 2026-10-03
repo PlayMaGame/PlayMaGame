@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation
 - 🌱 I’m currently vibe coding
 - 💞️ I’m not currently seeking collaborations
-- 📫 You can reach me on [Twitch](https://www.twitch.tv/playmagame)
+- 📫 You can reach me on [Twitch](https://www.twitch.tv/WekizZ)
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I have 0 knowledge about programming, and even my math skills are limping...
 
