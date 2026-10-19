@@ -4,7 +4,7 @@
 - 💞️ I’m not currently seeking collaborations
 - 📫 You can reach me on [Twitch](https://www.twitch.tv/WekizZ)
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I have 0 knowledge about programming, and even my math skills are limping...
+- ⚡ Fun fact: I have 3% knowledge about programming, and even my math skills are limping...
 
 <!---
 PlayMaGame/PlayMaGame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
