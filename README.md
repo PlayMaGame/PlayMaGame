@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PlayMaGame
+- 👋 Hi, I’m @PlayMaGame (WekizZ on Discord)
 - 👀 I’m interested in automation
 - 🌱 I’m currently vibe coding
 - 💞️ I’m not currently seeking collaborations
